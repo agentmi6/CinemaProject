@@ -1,0 +1,10 @@
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\Cinema.Core.dll.config
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\Cinema.Core.dll
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\Cinema.Core.pdb
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\obj\Debug\Cinema.Core.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\obj\Debug\Cinema.Core.dll
+C:\Users\code\Desktop\V\CinemaProject\Cinema.Core\obj\Debug\Cinema.Core.pdb

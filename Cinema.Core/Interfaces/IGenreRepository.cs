@@ -9,6 +9,6 @@ namespace Cinema.Core.Interfaces
 {
     public interface IGenreRepository : IBaseRepository<Genre>
     {
-        int Count();
+        
     }
 }

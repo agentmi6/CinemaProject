@@ -13,6 +13,6 @@ namespace Cinema.Core.Entities
         public string Description { get; set; }
         public Genre Genre { get; set; }
         public Actors Actors { get; set; }
-        public int MyProperty { get; set; }
+        public cinemaHall cinemaHall { get; set; }
     }
 }

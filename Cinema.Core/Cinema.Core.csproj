@@ -48,11 +48,16 @@
   <ItemGroup>
     <Compile Include="Entities\Actors.cs" />
     <Compile Include="Entities\BaseEntity.cs" />
+    <Compile Include="Entities\cinemaHall.cs" />
     <Compile Include="Entities\Genre.cs" />
     <Compile Include="Entities\Movie.cs" />
     <Compile Include="Entities\User.cs" />
+    <Compile Include="Interfaces\IActorsRepository.cs" />
     <Compile Include="Interfaces\IBaseRepository.cs" />
+    <Compile Include="Interfaces\IcinemaHallRepository.cs" />
     <Compile Include="Interfaces\IGenreRepository.cs" />
+    <Compile Include="Interfaces\IMovieRepository.cs" />
+    <Compile Include="Interfaces\IUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
